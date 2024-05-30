@@ -487,20 +487,9 @@ a:focus {
   color: #ffffff;
 }
 
-.desktopcode {
-    margin-bottom: 45px;
-  }
-  .mobilecode {
-    margin-bottom: auto;
-    visibility: collapse;
-  }
-@media only screen and (max-width:600px) {
-  .desktopcode{
-    visibility: collapse;
-  }
-  .mobilecode{
-    visibility: visible;
-  }
+.about_section .heading_container {
+  margin-bottom: 45px;
+}
 }
 
 .about_section .row {
