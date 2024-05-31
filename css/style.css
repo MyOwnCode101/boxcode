@@ -784,6 +784,11 @@ a:focus {
 .client_section .owl-carousel .owl-nav .owl-next:hover {
   color: #00204a;
 }
+.info_section {
+  background-color: #00204a;
+  color: #ffffff;
+  padding: 45px 0 15px 0;
+}
 .info_section h4 {
   font-weight: 600;
   margin-bottom: 20px;
